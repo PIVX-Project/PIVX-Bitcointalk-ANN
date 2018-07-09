@@ -1,2 +1,2 @@
-# PIVX-Bitcointalk-ANN-
+# PIVX-Bitcointalk-ANN
 PIVX BCT [ANN]
